@@ -1,5 +1,3 @@
-# ulbi-tv
-
 ## Project setup
 ```
 npm install
